@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class ButtonMove : MonoBehaviour
 {
     public GameObject player;
+    public Rigidbody2D rig;
 
     private SpriteRenderer img;
     public Sprite SpriteDown;
@@ -20,7 +21,7 @@ public class ButtonMove : MonoBehaviour
     {
         img = player.GetComponent<SpriteRenderer>();
     }
-    void Update()
+    void FixedUpdate()
     {
         if(moving)
         {
@@ -28,29 +29,33 @@ public class ButtonMove : MonoBehaviour
             {
                 case "up":
                     var up = new Vector3(0f, 1f, 0f).normalized;
-                    player.transform.position += up * speed * Time.deltaTime;
+                    rig.velocity = up * speed;
                     Debug.Log("cima");
                     img.sprite = SpriteUp;
                     break;
                 case "down":
                     var down = new Vector3(0f, -1f, 0f).normalized;
-                    player.transform.position += down * speed * Time.deltaTime;
+                    rig.velocity = down * speed;
                     Debug.Log("baixo");
                     img.sprite = SpriteDown;
                     break;
                 case "left":
                     var left = new Vector3(-1f, 0f, 0f).normalized;
-                    player.transform.position += left * speed * Time.deltaTime;
+                    rig.velocity = left * speed;
                     Debug.Log("esquerda");
                     img.sprite = SpriteLeft;
                     break;
                 case "right":
                     var right = new Vector3(1f, 0f, 0f).normalized;
-                    player.transform.position += right * speed * Time.deltaTime;
+                    rig.velocity = right * speed;
                     Debug.Log("direita");
                     img.sprite = SpriteRight;
                     break;
             }
+        }
+        else
+        {
+            rig.velocity = new Vector2(0f, 0f);
         }
     }
     public void Move(string di)
