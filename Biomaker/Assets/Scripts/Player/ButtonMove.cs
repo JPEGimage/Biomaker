@@ -8,6 +8,8 @@ public class ButtonMove : MonoBehaviour
     public GameObject player;
     public Rigidbody2D rig;
 
+    public Animator anim;
+
     private SpriteRenderer img;
     public Sprite SpriteDown;
     public Sprite SpriteUp;
@@ -30,25 +32,25 @@ public class ButtonMove : MonoBehaviour
                 case "up":
                     var up = new Vector3(0f, 1f, 0f).normalized;
                     rig.velocity = up * speed;
-                    Debug.Log("cima");
+                    anim.SetBool("up",true);
                     img.sprite = SpriteUp;
                     break;
                 case "down":
                     var down = new Vector3(0f, -1f, 0f).normalized;
                     rig.velocity = down * speed;
-                    Debug.Log("baixo");
+                    anim.SetBool("down", true);
                     img.sprite = SpriteDown;
                     break;
                 case "left":
                     var left = new Vector3(-1f, 0f, 0f).normalized;
                     rig.velocity = left * speed;
-                    Debug.Log("esquerda");
+                    anim.SetBool("left", true);
                     img.sprite = SpriteLeft;
                     break;
                 case "right":
                     var right = new Vector3(1f, 0f, 0f).normalized;
                     rig.velocity = right * speed;
-                    Debug.Log("direita");
+                    anim.SetBool("right", true);
                     img.sprite = SpriteRight;
                     break;
             }
@@ -56,6 +58,10 @@ public class ButtonMove : MonoBehaviour
         else
         {
             rig.velocity = new Vector2(0f, 0f);
+            anim.SetBool("up", false);
+            anim.SetBool("down", false);
+            anim.SetBool("right", false);
+            anim.SetBool("left", false);
         }
     }
     public void Move(string di)

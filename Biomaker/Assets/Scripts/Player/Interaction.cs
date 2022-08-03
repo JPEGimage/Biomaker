@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Interaction : MonoBehaviour
 {
-    public GameObject actionButton;
-    public GameObject axe;
+    public GameObject actionButton, itemButton;
+    public GameObject GC;
     private bool inter = false;
     public string obj;
 
@@ -34,8 +34,10 @@ public class Interaction : MonoBehaviour
         else if (coll.gameObject.CompareTag("Axe"))
         {
             obj = "axe";
-            Destroy(axe);
-            inter = true;
+            GC.GetComponent<Inventory>().Valid();
+            GameObject[] enemies = GameObject.FindGameObjectsWithTag("Axe");
+            foreach (GameObject enemy in enemies)
+                GameObject.Destroy(enemy);
         }
     }
 
