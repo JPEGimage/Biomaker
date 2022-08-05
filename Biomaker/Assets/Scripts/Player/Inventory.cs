@@ -32,6 +32,10 @@ public class Inventory : MonoBehaviour
         {
             axe.SetActive(true);
         }
+        if (Int.GetComponent<Interaction>().obj == "glove")
+        {
+            glove.SetActive(true);
+        }
     }
 
     public void Select(Sprite s)

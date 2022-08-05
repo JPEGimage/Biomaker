@@ -26,16 +26,26 @@ public class Interaction : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D coll)
     {
+        //objects
         if(coll.gameObject.CompareTag("Tree"))
         {
             obj = "tree";
             inter = true;
         } 
+        //items
         else if (coll.gameObject.CompareTag("Axe"))
         {
             obj = "axe";
             GC.GetComponent<Inventory>().Valid();
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Axe");
+            foreach (GameObject enemy in enemies)
+                GameObject.Destroy(enemy);
+        }
+        else if(coll.gameObject.CompareTag("Glove"))
+        { 
+            obj = "glove";
+            GC.GetComponent<Inventory>().Valid();
+            GameObject[] enemies = GameObject.FindGameObjectsWithTag("Glove");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
         }

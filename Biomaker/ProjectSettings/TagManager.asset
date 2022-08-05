@@ -6,6 +6,16 @@ TagManager:
   tags:
   - Tree
   - Axe
+  - Glove
+  - Seed
+  - Torch
+  - Shovel
+  - Rod
+  - Bucket
+  - Poison
+  - Hoe
+  - gBait
+  - rBait
   layers:
   - Default
   - TransparentFX
