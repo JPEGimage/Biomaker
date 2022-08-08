@@ -36,6 +36,42 @@ public class Inventory : MonoBehaviour
         {
             glove.SetActive(true);
         }
+        if (Int.GetComponent<Interaction>().obj == "seed")
+        {
+            seed.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "torch")
+        {
+            torch.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "shovel")
+        {
+            shovel.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "rod")
+        {
+            rod.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "bucket")
+        {
+            bucket.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "poison")
+        {
+            poison.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "hoe")
+        {
+            hoe.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "gBait")
+        {
+            gBait.SetActive(true);
+        }
+        if (Int.GetComponent<Interaction>().obj == "rBait")
+        {
+            rBait.SetActive(true);
+        }
     }
 
     public void Select(Sprite s)
