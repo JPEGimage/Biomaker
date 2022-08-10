@@ -1,17 +1,35 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using System.Threading.Tasks;
 public class Interaction : MonoBehaviour
 {
     public GameObject actionButton, itemButton;
-    public GameObject GC;
+    public GameObject GC, ActionArea;
     private bool inter = false;
-    public string obj;
+    public string obj,item = "";
 
     public void Tree()
     {
         Debug.Log(obj);
+        switch(item)
+        {
+            case "axe":
+                Debug.Log("quebrando " + obj);
+                if(obj == "tree")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                break;
+            default:
+                break;
+        }
+    }
+    public async void Action()
+    {
+        await Task.Delay(500);
+        ActionArea.tag = "Stop";
     }
     void FixedUpdate()
     {

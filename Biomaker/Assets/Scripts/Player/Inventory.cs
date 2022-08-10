@@ -6,7 +6,7 @@ public class Inventory : MonoBehaviour
 {
     public bool I = false;
     public Image itemButton;
-    public GameObject Int, inv;
+    public GameObject inv, Int;
     public GameObject axe, glove, seed, torch, shovel, rod, bucket, poison, hoe, gBait, rBait;
 
     private void Start()
@@ -77,6 +77,7 @@ public class Inventory : MonoBehaviour
     public void Select(Sprite s)
     {
         itemButton.sprite = s;
+        Int.GetComponent<Interaction>().item = s.name;
         inv.SetActive(false);
     }
 }

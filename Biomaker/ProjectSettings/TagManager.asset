@@ -16,6 +16,8 @@ TagManager:
   - Hoe
   - gBait
   - rBait
+  - Action
+  - Stop
   layers:
   - Default
   - TransparentFX
