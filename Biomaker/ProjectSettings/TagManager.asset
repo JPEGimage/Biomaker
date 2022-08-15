@@ -18,6 +18,11 @@ TagManager:
   - rBait
   - Action
   - Stop
+  - Stump
+  - Button
+  - Hole
+  - Plantzone
+  - Alert
   layers:
   - Default
   - TransparentFX

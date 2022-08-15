@@ -22,13 +22,29 @@ public class Interaction : MonoBehaviour
                     Action();
                 }
                 break;
+            case "glove":
+                Debug.Log("tirando " + obj);
+                if (obj == "stump")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                break;
+            case "shovel":
+                Debug.Log("cavando ");
+                if (obj == "plant")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                break;
             default:
                 break;
         }
     }
     public async void Action()
     {
-        await Task.Delay(500);
+        await Task.Delay(10);
         ActionArea.tag = "Stop";
     }
     void FixedUpdate()
@@ -49,7 +65,17 @@ public class Interaction : MonoBehaviour
         {
             obj = "tree";
             inter = true;
-        } 
+        }
+        if (coll.gameObject.CompareTag("Stump"))
+        {
+            obj = "stump";
+            inter = true;
+        }
+        if (coll.gameObject.CompareTag("Plantzone"))
+        {
+            obj = "plant";
+            inter = true;
+        }
         //items
         else if (coll.gameObject.CompareTag("Axe"))
         {
