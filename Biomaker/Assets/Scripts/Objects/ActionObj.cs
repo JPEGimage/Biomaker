@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class ActionObj : MonoBehaviour
 {
-    public GameObject GC, toco, player, hole, seed;
+    public GameObject GC, toco, player, hole, seed, gate;
+    public GameObject ActionArea;
     public string obj;
     public void TimeToAction()
     {
@@ -12,13 +13,23 @@ public class ActionObj : MonoBehaviour
         {
             case "tree":
                 Instantiate(toco, gameObject.transform.position, gameObject.transform.rotation);
+                ActionArea.tag = "Stop";
                 Destroy(gameObject);
                 break;
             case "stump":
+                ActionArea.tag = "Stop";
                 Destroy(gameObject);
                 break;
             case "plant":
-                Instantiate(hole, player.transform.position, player.transform.rotation);
+                Instantiate(seed, gameObject.transform.position, gameObject.transform.rotation);
+                ActionArea.tag = "Stop";
+                Destroy(gameObject);
+                break;
+            case "button":
+                Destroy(gate);
+                Instantiate(toco, gameObject.transform.position, gameObject.transform.rotation);
+                ActionArea.tag = "Stop";
+                Destroy(gameObject);
                 break;
         }
     }

@@ -214,4 +214,5 @@ MonoBehaviour:
   player: {fileID: 0}
   hole: {fileID: 0}
   seed: {fileID: 0}
+  ActionArea: {fileID: 4645655188496518295, guid: 4a2bdf6dedc04b641937cb38b7c33980, type: 3}
   obj: tree

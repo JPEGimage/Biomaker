@@ -3,7 +3,13 @@ guid: 39ed80312ae350b4cbc20caf94ab6f91
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - GC: {instanceID: 0}
+  - toco: {fileID: 5183203754627353852, guid: 41ab4f744493e8c47a985981acc11a8f, type: 3}
+  - player: {instanceID: 0}
+  - hole: {fileID: 5183203754627353852, guid: 2b1882900f104174198ce72d485623be, type: 3}
+  - seed: {fileID: 5183203754627353852, guid: d877942efaac6df4894cb43c1b7e755d, type: 3}
+  - ActionArea: {fileID: 4645655188496518295, guid: 4a2bdf6dedc04b641937cb38b7c33980, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

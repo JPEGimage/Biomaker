@@ -23,6 +23,10 @@ TagManager:
   - Hole
   - Plantzone
   - Alert
+  - Undefined
+  - LittleSeed
+  - River
+  - Stone
   layers:
   - Default
   - TransparentFX

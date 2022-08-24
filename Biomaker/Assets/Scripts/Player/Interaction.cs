@@ -6,7 +6,8 @@ public class Interaction : MonoBehaviour
 {
     public GameObject actionButton, itemButton;
     public GameObject GC, ActionArea;
-    private bool inter = false;
+    public GameObject hole, player, playercave;
+    public bool inter = false, cavante = false;
     public string obj,item = "";
 
     public void Tree()
@@ -21,6 +22,11 @@ public class Interaction : MonoBehaviour
                     ActionArea.tag = "Action";
                     Action();
                 }
+                else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
                 break;
             case "glove":
                 Debug.Log("tirando " + obj);
@@ -29,10 +35,33 @@ public class Interaction : MonoBehaviour
                     ActionArea.tag = "Action";
                     Action();
                 }
+                else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
                 break;
             case "shovel":
-                Debug.Log("cavando ");
+                Debug.Log("cavando");
+                if (obj != "plant")
+                {
+                    Instantiate(hole, playercave.transform.position, player.transform.rotation);
+                    ActionArea.tag = "Stop";
+                }
+                else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                break;
+            case "seed":
+                Debug.Log("plantando");
                 if (obj == "plant")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                else if(obj == "button")
                 {
                     ActionArea.tag = "Action";
                     Action();
@@ -44,7 +73,7 @@ public class Interaction : MonoBehaviour
     }
     public async void Action()
     {
-        await Task.Delay(10);
+        await Task.Delay(30);
         ActionArea.tag = "Stop";
     }
     void FixedUpdate()
@@ -66,14 +95,24 @@ public class Interaction : MonoBehaviour
             obj = "tree";
             inter = true;
         }
-        if (coll.gameObject.CompareTag("Stump"))
+        else if (coll.gameObject.CompareTag("Stump"))
         {
             obj = "stump";
             inter = true;
         }
-        if (coll.gameObject.CompareTag("Plantzone"))
+        else if (coll.gameObject.CompareTag("Plantzone"))
+        {
+            obj = "cave";
+            inter = true;
+        }
+        else if (coll.gameObject.CompareTag("Hole"))
         {
             obj = "plant";
+            inter = true;
+        }
+        else if (coll.gameObject.CompareTag("Button"))
+        {
+            obj = "button";
             inter = true;
         }
         //items
@@ -169,7 +208,10 @@ public class Interaction : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D coll)
     {
+        if(cavante == false)
+        {
+            inter = false;
+        }
         obj = "";
-        inter = false;
     }
 }
