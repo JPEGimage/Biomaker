@@ -5,7 +5,7 @@ using UnityEngine;
 public class ActionObj : MonoBehaviour
 {
     public GameObject GC, toco, player, hole, seed, gate;
-    public GameObject ActionArea;
+    public GameObject ActionArea, Dialog;
     public string obj;
     public void TimeToAction()
     {
@@ -30,6 +30,9 @@ public class ActionObj : MonoBehaviour
                 Instantiate(toco, gameObject.transform.position, gameObject.transform.rotation);
                 ActionArea.tag = "Stop";
                 Destroy(gameObject);
+                break;
+            case "npc":
+                Dialog.SetActive(true);
                 break;
         }
     }

@@ -22,7 +22,13 @@ public class Interaction : MonoBehaviour
                     ActionArea.tag = "Action";
                     Action();
                 }
+                //essencial
                 else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
@@ -35,7 +41,13 @@ public class Interaction : MonoBehaviour
                     ActionArea.tag = "Action";
                     Action();
                 }
+                //essencial
                 else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
@@ -48,7 +60,13 @@ public class Interaction : MonoBehaviour
                     Instantiate(hole, playercave.transform.position, player.transform.rotation);
                     ActionArea.tag = "Stop";
                 }
+                //essencial
                 else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
@@ -61,13 +79,30 @@ public class Interaction : MonoBehaviour
                     ActionArea.tag = "Action";
                     Action();
                 }
-                else if(obj == "button")
+                //essencial
+                else if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
                 }
                 break;
-            default:
+                default:
+                //essencial
+                if (obj == "button")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
+                else if (obj == "jpeg")
+                {
+                    ActionArea.tag = "Action";
+                    Action();
+                }
                 break;
         }
     }
@@ -113,6 +148,11 @@ public class Interaction : MonoBehaviour
         else if (coll.gameObject.CompareTag("Button"))
         {
             obj = "button";
+            inter = true;
+        }
+        else if (coll.gameObject.CompareTag("JPEG"))
+        {
+            obj = "jpeg";
             inter = true;
         }
         //items

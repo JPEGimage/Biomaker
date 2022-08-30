@@ -27,6 +27,7 @@ TagManager:
   - LittleSeed
   - River
   - Stone
+  - JPEG
   layers:
   - Default
   - TransparentFX
