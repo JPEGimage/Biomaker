@@ -30,6 +30,7 @@ TagManager:
   - JPEG
   - GX
   - pont
+  - Other
   layers:
   - Default
   - TransparentFX

@@ -522,7 +522,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (6)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &13603854 stripped
 Transform:
@@ -588,7 +593,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (169)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &13905402 stripped
 Transform:
@@ -806,7 +816,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (172)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &23486732 stripped
 Transform:
@@ -1339,7 +1354,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (122)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &47292408 stripped
 Transform:
@@ -1792,7 +1812,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (138)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &56747218 stripped
 Transform:
@@ -2392,7 +2417,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (176)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &84432320 stripped
 Transform:
@@ -2458,7 +2488,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (99)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &85110704 stripped
 Transform:
@@ -2524,7 +2559,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (112)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &88746128 stripped
 Transform:
@@ -2838,7 +2878,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (179)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &97779041 stripped
 Transform:
@@ -3028,7 +3073,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (58)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &101263459 stripped
 Transform:
@@ -3466,7 +3516,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (128)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &117657956 stripped
 Transform:
@@ -3827,6 +3882,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -3835,7 +3894,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &126566404 stripped
 Transform:
@@ -4025,7 +4085,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (137)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &133574068 stripped
 Transform:
@@ -4091,7 +4156,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (76)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &136613570 stripped
 Transform:
@@ -4423,7 +4493,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (139)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &150971980 stripped
 Transform:
@@ -4489,7 +4564,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (140)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &156436632 stripped
 Transform:
@@ -4555,7 +4635,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (53)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &158431773 stripped
 Transform:
@@ -4683,7 +4768,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (62)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &163009917 stripped
 Transform:
@@ -4777,6 +4867,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -4785,7 +4879,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &165313455 stripped
 Transform:
@@ -4851,7 +4946,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (95)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &165380031 stripped
 Transform:
@@ -5118,7 +5218,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (85)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &176344462 stripped
 Transform:
@@ -5212,6 +5317,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -5220,7 +5329,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &178498371 stripped
 Transform:
@@ -5286,7 +5396,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (161)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &181997947 stripped
 Transform:
@@ -5488,7 +5603,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (164)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &188794632 stripped
 Transform:
@@ -6009,7 +6129,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (94)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &209897273 stripped
 Transform:
@@ -6581,7 +6706,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (113)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &223235501 stripped
 Transform:
@@ -6737,6 +6867,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -6745,7 +6879,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &228438377 stripped
 Transform:
@@ -6945,7 +7080,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (21)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &234317403 stripped
 Transform:
@@ -7011,7 +7151,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (153)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &238629536 stripped
 Transform:
@@ -7139,7 +7284,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (181)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &241399783 stripped
 Transform:
@@ -7391,7 +7541,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (152)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &244407739 stripped
 Transform:
@@ -7457,7 +7612,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (78)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &250415560 stripped
 Transform:
@@ -7744,7 +7904,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (141)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &264333893 stripped
 Transform:
@@ -8116,7 +8281,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (77)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &283201823 stripped
 Transform:
@@ -8178,7 +8348,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (20)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &286350235 stripped
 Transform:
@@ -8439,7 +8614,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (87)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &290474915 stripped
 Transform:
@@ -8629,7 +8809,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (45)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &294277205 stripped
 Transform:
@@ -8881,7 +9066,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (118)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &302921982 stripped
 Transform:
@@ -10598,7 +10788,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (28)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &336781236 stripped
 Transform:
@@ -10788,7 +10983,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (98)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &343029193 stripped
 Transform:
@@ -11143,7 +11343,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (23)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &364225867 stripped
 Transform:
@@ -11237,6 +11442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -11245,7 +11454,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &364526861 stripped
 Transform:
@@ -11311,7 +11521,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (146)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &367664863 stripped
 Transform:
@@ -11506,7 +11721,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (136)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &376478315 stripped
 Transform:
@@ -11901,7 +12121,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (4)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &404928201 stripped
 Transform:
@@ -12122,7 +12347,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (191)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &421886846 stripped
 Transform:
@@ -12613,7 +12843,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (96)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &430232819 stripped
 Transform:
@@ -12955,6 +13190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -12963,7 +13202,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &452194851 stripped
 Transform:
@@ -13087,7 +13327,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (12)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &459229231 stripped
 Transform:
@@ -13651,7 +13896,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (119)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &481174201 stripped
 Transform:
@@ -13993,6 +14243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -14001,7 +14255,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &489557334 stripped
 Transform:
@@ -14143,7 +14398,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (108)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &497180361 stripped
 Transform:
@@ -14395,7 +14655,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (188)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &506679318 stripped
 Transform:
@@ -14523,7 +14788,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (79)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &514323648 stripped
 Transform:
@@ -14663,7 +14933,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (63)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &514851837 stripped
 Transform:
@@ -14853,7 +15128,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (130)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &515849140 stripped
 Transform:
@@ -15502,7 +15782,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (175)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &531271812 stripped
 Transform:
@@ -15564,7 +15849,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &532341928 stripped
 Transform:
@@ -15758,7 +16048,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (100)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &542268677 stripped
 Transform:
@@ -16139,7 +16434,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (127)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &565418028 stripped
 Transform:
@@ -17120,7 +17420,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (185)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &597558068 stripped
 Transform:
@@ -17310,7 +17615,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (163)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &606002272 stripped
 Transform:
@@ -17543,7 +17853,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (151)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &623360417 stripped
 Transform:
@@ -17671,7 +17986,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (117)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &633250544 stripped
 Transform:
@@ -17861,7 +18181,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (105)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &639603059 stripped
 Transform:
@@ -18299,7 +18624,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (184)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &657018030 stripped
 Transform:
@@ -19227,7 +19557,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (75)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &688357751 stripped
 Transform:
@@ -19479,7 +19814,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (104)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &692379496 stripped
 Transform:
@@ -19545,7 +19885,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (52)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &692557435 stripped
 Transform:
@@ -19731,7 +20076,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (19)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &699806472 stripped
 Transform:
@@ -19993,7 +20343,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (91)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &706396865 stripped
 Transform:
@@ -20324,7 +20679,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (60)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &722980451 stripped
 Transform:
@@ -20390,7 +20750,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (190)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &724504883 stripped
 Transform:
@@ -20674,7 +21039,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (97)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &732698367 stripped
 Transform:
@@ -20936,7 +21306,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (187)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &746532414 stripped
 Transform:
@@ -21525,7 +21900,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (158)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &782957949 stripped
 Transform:
@@ -21653,7 +22033,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (106)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &791117048 stripped
 Transform:
@@ -21719,7 +22104,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (160)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &801216546 stripped
 Transform:
@@ -21847,7 +22237,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (101)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &803340409 stripped
 Transform:
@@ -22371,7 +22766,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (90)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &817589181 stripped
 Transform:
@@ -22884,7 +23284,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (120)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &824763752 stripped
 Transform:
@@ -23012,7 +23417,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (154)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &828648779 stripped
 Transform:
@@ -23140,7 +23550,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (54)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &831611051 stripped
 Transform:
@@ -23202,7 +23617,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (30)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &835141546 stripped
 Transform:
@@ -23330,7 +23750,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (168)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &839416530 stripped
 Transform:
@@ -23396,7 +23821,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (129)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &843339889 stripped
 Transform:
@@ -23600,7 +24030,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (14)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &845477664 stripped
 Transform:
@@ -24274,7 +24709,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (70)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &863950661 stripped
 Transform:
@@ -24563,7 +25003,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (26)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &869992189 stripped
 Transform:
@@ -25037,7 +25482,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (67)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &889055408 stripped
 Transform:
@@ -25289,7 +25739,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (142)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &895999556 stripped
 Transform:
@@ -25413,7 +25868,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (29)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &899417602 stripped
 Transform:
@@ -25479,7 +25939,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (59)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &900106016 stripped
 Transform:
@@ -25607,7 +26072,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (150)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &901373492 stripped
 Transform:
@@ -25735,7 +26205,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (162)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &907850067 stripped
 Transform:
@@ -26009,7 +26484,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (110)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &916717950 stripped
 Transform:
@@ -27618,7 +28098,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (107)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &966667601 stripped
 Transform:
@@ -27990,7 +28475,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (9)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &986285073 stripped
 Transform:
@@ -28636,7 +29126,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (27)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &996760656 stripped
 Transform:
@@ -28702,7 +29197,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (193)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &997560365 stripped
 Transform:
@@ -29461,7 +29961,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (189)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1020006540 stripped
 Transform:
@@ -30105,7 +30610,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (115)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1050487746 stripped
 Transform:
@@ -30989,7 +31499,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (80)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1075517636 stripped
 Transform:
@@ -31500,7 +32015,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (18)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1107355227 stripped
 Transform:
@@ -86768,7 +87288,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (65)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1156011432 stripped
 Transform:
@@ -86892,7 +87417,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (64)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1163080554 stripped
 Transform:
@@ -87375,7 +87905,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (173)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1183085002 stripped
 Transform:
@@ -87446,7 +87981,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (126)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1186352398 stripped
 Transform:
@@ -88294,7 +88834,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (93)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1204960177 stripped
 Transform:
@@ -88884,7 +89429,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (155)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1222408241 stripped
 Transform:
@@ -89498,7 +90048,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (109)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1240992041 stripped
 Transform:
@@ -89936,7 +90491,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (171)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1250154285 stripped
 Transform:
@@ -90126,7 +90686,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (124)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1261752734 stripped
 Transform:
@@ -90511,7 +91076,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (132)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1268764071 stripped
 Transform:
@@ -91368,7 +91938,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (50)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1305106844 stripped
 Transform:
@@ -91434,7 +92009,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (192)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1305342494 stripped
 Transform:
@@ -92138,7 +92718,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (74)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1329731233 stripped
 Transform:
@@ -92315,6 +92900,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -92323,7 +92912,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1332308901 stripped
 Transform:
@@ -92451,7 +93041,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (156)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1335485989 stripped
 Transform:
@@ -93887,7 +94482,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (111)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1390332101 stripped
 Transform:
@@ -94205,7 +94805,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (116)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1405843683 stripped
 Transform:
@@ -94723,7 +95328,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (73)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1429325816 stripped
 Transform:
@@ -99548,7 +100158,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (125)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1445005940 stripped
 Transform:
@@ -99614,7 +100229,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (144)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1445599197 stripped
 Transform:
@@ -99994,7 +100614,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (174)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1460601626 stripped
 Transform:
@@ -100485,7 +101110,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (133)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1504624436 stripped
 Transform:
@@ -100827,6 +101457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -100835,7 +101469,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1510527094 stripped
 Transform:
@@ -101087,7 +101722,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (13)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1519435929 stripped
 Transform:
@@ -101537,7 +102177,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (166)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1534435612 stripped
 Transform:
@@ -101723,7 +102368,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (8)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1538696544 stripped
 Transform:
@@ -101851,7 +102501,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (121)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1551728461 stripped
 Transform:
@@ -102206,7 +102861,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (114)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1563895104 stripped
 Transform:
@@ -102272,7 +102932,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (182)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1563914473 stripped
 Transform:
@@ -102366,6 +103031,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -102374,7 +103043,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1565935373 stripped
 Transform:
@@ -102716,6 +103386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -102724,7 +103398,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1582998836 stripped
 Transform:
@@ -103045,6 +103720,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -103053,7 +103732,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1592127022 stripped
 Transform:
@@ -103115,7 +103795,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!1001 &1611737503
 PrefabInstance:
@@ -103898,7 +104583,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (103)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1643676595 stripped
 Transform:
@@ -104542,7 +105232,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (178)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1661304067 stripped
 Transform:
@@ -104794,7 +105489,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1663662900 stripped
 Transform:
@@ -104922,7 +105622,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (180)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1665277604 stripped
 Transform:
@@ -105112,7 +105817,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (84)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1670087778 stripped
 Transform:
@@ -105240,7 +105950,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (135)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1674095378 stripped
 Transform:
@@ -105434,7 +106149,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (82)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1677616265 stripped
 Transform:
@@ -105734,7 +106454,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (24)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1691289273 stripped
 Transform:
@@ -105894,6 +106619,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -105902,7 +106631,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1693686630 stripped
 Transform:
@@ -106030,7 +106760,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (170)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1698366127 stripped
 Transform:
@@ -106416,7 +107151,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (25)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1713545865 stripped
 Transform:
@@ -106482,7 +107222,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (89)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1717750177 stripped
 Transform:
@@ -106548,7 +107293,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (167)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1718018316 stripped
 Transform:
@@ -106704,6 +107454,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -106712,7 +107466,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1719733337 stripped
 Transform:
@@ -107667,7 +108422,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (31)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1740185020 stripped
 Transform:
@@ -107795,7 +108555,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (69)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1747689636 stripped
 Transform:
@@ -108357,7 +109122,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (68)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1772950282 stripped
 Transform:
@@ -108694,7 +109464,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (57)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1786401873 stripped
 Transform:
@@ -108979,7 +109754,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1792509498 stripped
 Transform:
@@ -109439,7 +110219,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (157)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1815771923 stripped
 Transform:
@@ -109505,7 +110290,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (71)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1817586553 stripped
 Transform:
@@ -109945,7 +110735,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (88)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1830852613 stripped
 Transform:
@@ -110011,7 +110806,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (131)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1831434216 stripped
 Transform:
@@ -110526,7 +111326,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (147)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1851329889 stripped
 Transform:
@@ -110726,7 +111531,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (7)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1858254402 stripped
 Transform:
@@ -110792,7 +111602,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (134)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1862503638 stripped
 Transform:
@@ -110888,7 +111703,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (16)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1864746346 stripped
 Transform:
@@ -111200,7 +112020,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (143)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1883120245 stripped
 Transform:
@@ -111532,7 +112357,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (83)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1888870122 stripped
 Transform:
@@ -111781,7 +112611,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (66)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1912393092 stripped
 Transform:
@@ -112099,7 +112934,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (149)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1926479826 stripped
 Transform:
@@ -112289,7 +113129,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (183)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1928495284 stripped
 Transform:
@@ -112778,7 +113623,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (11)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1942540594 stripped
 Transform:
@@ -113168,7 +114018,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (17)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1953730039 stripped
 Transform:
@@ -113342,6 +114197,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -113350,7 +114209,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1956874946 stripped
 Transform:
@@ -113580,7 +114440,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (102)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1974242239 stripped
 Transform:
@@ -113770,7 +114635,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (148)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1982550205 stripped
 Transform:
@@ -113832,7 +114702,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (5)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1984981249 stripped
 Transform:
@@ -113988,7 +114863,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (123)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1987799569 stripped
 Transform:
@@ -114116,7 +114996,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (177)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &1993140932 stripped
 Transform:
@@ -114306,7 +115191,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (51)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2003104750 stripped
 Transform:
@@ -114372,7 +115262,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (61)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2005103489 stripped
 Transform:
@@ -114434,7 +115329,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (15)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2006187394 stripped
 Transform:
@@ -114819,7 +115719,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (92)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2020504829 stripped
 Transform:
@@ -115052,6 +115957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -115060,7 +115969,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2025813523 stripped
 Transform:
@@ -115254,7 +116164,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (72)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2035222807 stripped
 Transform:
@@ -115818,7 +116733,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (165)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2054153322 stripped
 Transform:
@@ -115884,7 +116804,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (145)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2057832070 stripped
 Transform:
@@ -116012,7 +116937,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (86)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2061317312 stripped
 Transform:
@@ -116914,7 +117844,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (159)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2104448419 stripped
 Transform:
@@ -117132,6 +118067,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -117140,7 +118079,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2111367530 stripped
 Transform:
@@ -117206,7 +118146,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (55)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2115247411 stripped
 Transform:
@@ -117542,7 +118487,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (22)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2125643239 stripped
 Transform:
@@ -117760,6 +118710,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
     - target: {fileID: 7486786925824699921, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04
@@ -117768,7 +118722,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.15
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2136722213 stripped
 Transform:
@@ -117834,7 +118789,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (186)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2139753474 stripped
 Transform:
@@ -117900,7 +118860,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (56)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2139878308 stripped
 Transform:
@@ -117966,7 +118931,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arbusto (81)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 5183203754627353852, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
+      propertyPath: m_TagString
+      value: Other
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 296183371, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 71d39edac9f5d294ab4d649cdc8f12ce, type: 3}
 --- !u!4 &2139890656 stripped
 Transform:
