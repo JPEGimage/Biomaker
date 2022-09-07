@@ -1,20 +1,42 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using System.Threading.Tasks;
 public class ActionObj : MonoBehaviour
 {
     public GameObject GC, toco, player, hole, seed, gate;
     public GameObject ActionArea, Dialog;
     public string obj;
+    private void Awake()
+    {
+        if (obj == "bird")
+        {
+            Kill();
+        }
+    }
+    private void FixedUpdate()
+    {
+        if(obj == "bird")
+        {
+            transform.position += new Vector3(1.0f, 0f, 0f).normalized * (Time.deltaTime*10);
+        }
+    }
+    public async void Kill()
+    {
+        await Task.Delay(25000);
+        Destroy(gameObject);
+    }
     public void TimeToAction()
     {
         switch (obj)
         {
             case "tree":
-                Instantiate(toco, gameObject.transform.position, gameObject.transform.rotation);
-                ActionArea.tag = "Stop";
-                Destroy(gameObject);
+                if(player.GetComponent<Interaction>().desmatas)
+                {
+                    Instantiate(toco, gameObject.transform.position, gameObject.transform.rotation);
+                    ActionArea.tag = "Stop";
+                    Destroy(gameObject);
+                }
                 break;
             case "stump":
                 ActionArea.tag = "Stop";

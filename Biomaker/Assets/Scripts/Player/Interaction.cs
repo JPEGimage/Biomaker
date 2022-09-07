@@ -1,15 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using System.Threading.Tasks;
 public class Interaction : MonoBehaviour
 {
     public GameObject actionButton, itemButton;
-    public GameObject GC, ActionArea;
+    public GameObject GC, ActionArea, GO, GW;
     public GameObject hole, player, playercave;
-    public bool inter = false, cavante = false;
+    public GameObject alert,NewD;
+    public Slider prog;
+    public bool inter = false, cavante = false, desmatas = false, final = false;
     public string obj,item = "";
+    public int plant = 3, score = 0;
 
+    public AudioSource cut;
+    public AudioSource cave;
+    public AudioSource ale;
+    public AudioSource stump;
+
+    public AudioSource won;
+    public AudioSource lose;
     public void Tree()
     {
         Debug.Log(obj);
@@ -19,19 +30,34 @@ public class Interaction : MonoBehaviour
                 Debug.Log("quebrando " + obj);
                 if(obj == "tree")
                 {
+                    desmatas = true;
                     ActionArea.tag = "Action";
+                    plant -= 1;
                     Action();
+                    NoAction();
+                    cut.Play();
                 }
                 //essencial
                 else if (obj == "button")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
                 }
                 else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
+                }
+                else
+                {
+                    alert.SetActive(true);
+                    Action();
+                    NoAction();
+                    ale.Play();
                 }
                 break;
             case "glove":
@@ -40,36 +66,61 @@ public class Interaction : MonoBehaviour
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    stump.Play();
                 }
                 //essencial
                 else if (obj == "button")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
                 }
                 else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
+                }
+                else
+                {
+                    alert.SetActive(true);
+                    Action();
+                    NoAction();
+                    ale.Play();
                 }
                 break;
             case "shovel":
                 Debug.Log("cavando");
-                if (obj != "plant")
+                if (obj != "plant" && obj != "button" && obj != "jpeg" && obj != "pont")
                 {
                     Instantiate(hole, playercave.transform.position, player.transform.rotation);
                     ActionArea.tag = "Stop";
+                    cave.Play();
                 }
                 //essencial
                 else if (obj == "button")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
                 }
                 else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
+                }
+                else
+                {
+                    alert.SetActive(true);
+                    Action();
+                    NoAction();
+                    ale.Play();
                 }
                 break;
             case "seed":
@@ -77,31 +128,56 @@ public class Interaction : MonoBehaviour
                 if (obj == "plant")
                 {
                     ActionArea.tag = "Action";
+                    score += 1;
                     Action();
+                    NoAction();
+                    stump.Play();
                 }
                 //essencial
                 else if (obj == "button")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
                 }
                 else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
+                }
+                else
+                {
+                    alert.SetActive(true);
+                    Action();
+                    NoAction();
+                    ale.Play();
                 }
                 break;
-                default:
-                //essencial
+            default:
+                 //essencial
                 if (obj == "button")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
                 }
                 else if (obj == "jpeg")
                 {
                     ActionArea.tag = "Action";
                     Action();
+                    NoAction();
+                    ale.Play();
+                }
+                else
+                {
+                    alert.SetActive(true);
+                    Action();
+                    NoAction();
+                    ale.Play();
                 }
                 break;
         }
@@ -109,11 +185,34 @@ public class Interaction : MonoBehaviour
     public async void Action()
     {
         await Task.Delay(30);
+        desmatas = false;
         ActionArea.tag = "Stop";
+    }
+    public async void NoAction()
+    {
+        await Task.Delay(2000);
+        alert.SetActive(false);
+        NewD.SetActive(false);
     }
     void FixedUpdate()
     {
-        if(inter)
+        //win and lose
+        prog.value = score;
+
+        if (plant <= 0 && final == false)
+        {
+            GO.SetActive(true);
+            lose.Play();
+            final = true;
+        }
+        else if (score >= 5 && final == false)
+        {
+            GW.SetActive(true);
+            won.Play();
+            final = true;
+        }
+        //inter
+        if (inter)
         {
             actionButton.SetActive(true);
         }
@@ -155,6 +254,11 @@ public class Interaction : MonoBehaviour
             obj = "jpeg";
             inter = true;
         }
+        else if (coll.gameObject.CompareTag("pont"))
+        {
+            obj = "pont";
+            inter = true;
+        }
         //items
         else if (coll.gameObject.CompareTag("Axe"))
         {
@@ -163,6 +267,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Axe");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if(coll.gameObject.CompareTag("Glove"))
         { 
@@ -171,6 +279,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Glove");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Seed"))
         {
@@ -179,6 +291,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Seed");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Torch"))
         {
@@ -187,6 +303,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Torch");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Shovel"))
         {
@@ -195,6 +315,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Shovel");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Rod"))
         {
@@ -203,6 +327,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Rod");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Bucket"))
         {
@@ -211,6 +339,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Bucket");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Poison"))
         {
@@ -219,6 +351,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Poison");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("Hoe"))
         {
@@ -227,6 +363,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("Hoe");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("gBait"))
         {
@@ -235,6 +375,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("gBait");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
         else if (coll.gameObject.CompareTag("rBait"))
         {
@@ -243,6 +387,10 @@ public class Interaction : MonoBehaviour
             GameObject[] enemies = GameObject.FindGameObjectsWithTag("rBait");
             foreach (GameObject enemy in enemies)
                 GameObject.Destroy(enemy);
+            //alert
+            NewD.SetActive(true);
+            NoAction();
+            ale.Play();
         }
     }
 

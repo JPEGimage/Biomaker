@@ -184,7 +184,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.008266449, y: -1.7083054}
+  m_Offset: {x: -0.008266449, y: -1.2222824}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.41}
@@ -195,7 +195,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 11.9188175, y: 6.4247265}
+  m_Size: {x: 11.9188175, y: 7.3967724}
   m_EdgeRadius: 0
 --- !u!114 &296183371
 MonoBehaviour:
@@ -214,5 +214,7 @@ MonoBehaviour:
   player: {fileID: 0}
   hole: {fileID: 0}
   seed: {fileID: 0}
+  gate: {fileID: 0}
   ActionArea: {fileID: 4645655188496518295, guid: 4a2bdf6dedc04b641937cb38b7c33980, type: 3}
+  Dialog: {fileID: 0}
   obj: stump

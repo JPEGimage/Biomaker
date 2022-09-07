@@ -28,6 +28,8 @@ TagManager:
   - River
   - Stone
   - JPEG
+  - GX
+  - pont
   layers:
   - Default
   - TransparentFX

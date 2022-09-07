@@ -11,10 +11,6 @@ public class ButtonMove : MonoBehaviour
     public Animator anim;
 
     private SpriteRenderer img;
-    public Sprite SpriteDown;
-    public Sprite SpriteUp;
-    public Sprite SpriteLeft;
-    public Sprite SpriteRight;
 
     public float speed;
     bool moving = false;
@@ -32,36 +28,31 @@ public class ButtonMove : MonoBehaviour
                 case "up":
                     var up = new Vector3(0f, 1f, 0f).normalized;
                     rig.velocity = up * speed;
-                    anim.SetBool("up",true);
-                    img.sprite = SpriteUp;
+                    anim.SetBool("move",true);
                     break;
                 case "down":
                     var down = new Vector3(0f, -1f, 0f).normalized;
                     rig.velocity = down * speed;
-                    anim.SetBool("down", true);
-                    img.sprite = SpriteDown;
+                    anim.SetBool("move", true);
                     break;
                 case "left":
+                    img.flipX = true;
                     var left = new Vector3(-1f, 0f, 0f).normalized;
                     rig.velocity = left * speed;
-                    anim.SetBool("left", true);
-                    img.sprite = SpriteLeft;
+                    anim.SetBool("move", true);
                     break;
                 case "right":
+                    img.flipX = false;
                     var right = new Vector3(1f, 0f, 0f).normalized;
                     rig.velocity = right * speed;
-                    anim.SetBool("right", true);
-                    img.sprite = SpriteRight;
+                    anim.SetBool("move", true);
                     break;
             }
         }
         else
         {
             rig.velocity = new Vector2(0f, 0f);
-            anim.SetBool("up", false);
-            anim.SetBool("down", false);
-            anim.SetBool("right", false);
-            anim.SetBool("left", false);
+            anim.SetBool("move", false);
         }
     }
     public void Move(string di)
