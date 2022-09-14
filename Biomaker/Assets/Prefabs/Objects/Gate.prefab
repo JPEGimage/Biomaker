@@ -299,4 +299,7 @@ MonoBehaviour:
   player: {fileID: 0}
   hole: {fileID: 0}
   seed: {fileID: 0}
-  obj: stump
+  gate: {fileID: 0}
+  ActionArea: {fileID: 0}
+  Dialog: {fileID: 0}
+  obj: gate

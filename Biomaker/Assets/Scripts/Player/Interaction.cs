@@ -32,7 +32,6 @@ public class Interaction : MonoBehaviour
                 {
                     desmatas = true;
                     ActionArea.tag = "Action";
-                    plant -= 1;
                     Action();
                     NoAction();
                     cut.Play();
@@ -125,10 +124,9 @@ public class Interaction : MonoBehaviour
                 break;
             case "seed":
                 Debug.Log("plantando");
-                if (obj == "plant")
+                if (obj == "plant" && obj != "seed")
                 {
                     ActionArea.tag = "Action";
-                    score += 1;
                     Action();
                     NoAction();
                     stump.Play();
@@ -184,7 +182,7 @@ public class Interaction : MonoBehaviour
     }
     public async void Action()
     {
-        await Task.Delay(30);
+        await Task.Delay(20);
         desmatas = false;
         ActionArea.tag = "Stop";
     }

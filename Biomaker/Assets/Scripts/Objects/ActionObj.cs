@@ -6,9 +6,11 @@ public class ActionObj : MonoBehaviour
 {
     public GameObject GC, toco, player, hole, seed, gate;
     public GameObject ActionArea, Dialog;
+    GameObject verify;
     public string obj;
     private void Awake()
     {
+        verify = GameObject.FindGameObjectWithTag("Verify");
         if (obj == "bird")
         {
             Kill();
@@ -33,6 +35,7 @@ public class ActionObj : MonoBehaviour
             case "tree":
                 if(player.GetComponent<Interaction>().desmatas)
                 {
+                    verify.GetComponent<Interaction>().plant -= 1;
                     Instantiate(toco, gameObject.transform.position, gameObject.transform.rotation);
                     ActionArea.tag = "Stop";
                     Destroy(gameObject);
@@ -43,6 +46,7 @@ public class ActionObj : MonoBehaviour
                 Destroy(gameObject);
                 break;
             case "plant":
+                verify.GetComponent<Interaction>().score += 1;
                 Instantiate(seed, gameObject.transform.position, gameObject.transform.rotation);
                 ActionArea.tag = "Stop";
                 Destroy(gameObject);
